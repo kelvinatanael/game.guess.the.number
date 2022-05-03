@@ -1,0 +1,14 @@
+
+@include fontFace('Font Montserrat Bold','assets/fonts/Montserrat-Bold.ttf');
+@include fontFace('Font Roboto Bold','assets/fonts/Roboto-Bold.ttf');
+@include fontFace('Font Roboto Regular','assets/fonts/Roboto-Regular.ttf');
+
+.font-montserrat-bold {
+	font-family: 'Font Montserrat Bold';
+}
+.font-roboto-bold {
+	font-family: 'Font Roboto Bold';
+}
+.font-roboto-regular {
+	font-family: 'Font Roboto Regular';
+}
